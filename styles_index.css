@@ -1,0 +1,63 @@
+
+
+@font-face {
+    font-family: Friends ;
+    src: url(/GabrielWeissFriendsFont-VGq7B.ttf);
+
+}
+
+body {
+
+    font-family: Friends;
+    background-color: #f2f2f2;
+    text-align: center
+}
+
+header {
+
+
+    background-color: #3498db;
+    color: rgb(16, 13, 13);
+    padding: 10px;
+    border-radius: 30px;
+}
+
+main {
+    margin: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+#gender-selector {
+    margin: 20px;
+
+}
+#boy-button {
+    background-color: #3498db;
+    color: aliceblue;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 100px;
+
+}
+
+#girl-selector {
+    background-color: #fa9090;
+    color:aliceblue;
+    border: none;
+    
+    padding: 10px 20px;
+    border-radius: 100px;
+    
+}
+#result {
+    margin-top: 25px;
+}
+#sex-result {
+    font-size: 24px;
+}
+#height-result {
+    font-size: 18px;
+
+}
